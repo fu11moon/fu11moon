@@ -4,6 +4,6 @@
 
 Here are some quick things about me:
 
-- 🔭 I'm a Software Engineer at [3NCTO](http://http://www.3ncto.com/).
+- 🔭 I'm a Software Engineer at [Shenzhou Union Warranty](http://www.szlb.net/).
 - 🌱 I’m currently learning backend stack.
 - ⚡  Fun fact: I also like to invest in stocks.
